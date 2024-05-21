@@ -1,4 +1,3 @@
-# SQL-CRM-Project
 # Customer Relationship Management Database
 
 ## Overview
